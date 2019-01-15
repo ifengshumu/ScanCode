@@ -1,0 +1,5 @@
+use_frameworks!
+platform :ios, '8.0'
+target 'ScanScan' do
+    pod 'IQKeyboardManager'
+end

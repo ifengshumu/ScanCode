@@ -1,0 +1,19 @@
+//
+//  ScanHeader.pch
+//  ScanScan
+//
+//  Created by 李志华 on 2018/12/10.
+//  Copyright © 2018 CoderApple. All rights reserved.
+//
+
+#define SCAN_OBJECT @"扫描结果"
+#define SCAN_TIME @"scan_time="
+#define SCAN_TYPE @"scan_type="
+
+#import "UIColor+MethodExtend.h"
+#import "UIView+MethodExtend.h"
+#import "NSDateFormatter+Cache.h"
+#import "ZHDeviceTool.h"
+#import "AppConfig.h"
+#import "ZHBarTool.h"
+#import "ZHBarSacnView.h"

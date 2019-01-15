@@ -1,0 +1,24 @@
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "9RS-5O-qtz"; */
+"9RS-5O-qtz.title" = "Item";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "DFR-fp-XcV"; */
+"DFR-fp-XcV.title" = " ";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "Q3a-EL-Gz6"; */
+"Q3a-EL-Gz6.title" = "Item";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "Y9m-RP-CHa"; */
+"Y9m-RP-CHa.title" = "Item";
+
+/* Class = "UISegmentedControl"; YvZ-ye-rd8.segmentTitles[0] = "二维码"; ObjectID = "YvZ-ye-rd8"; */
+"YvZ-ye-rd8.segmentTitles[0]" = "二维码";
+
+/* Class = "UISegmentedControl"; YvZ-ye-rd8.segmentTitles[1] = "条形码"; ObjectID = "YvZ-ye-rd8"; */
+"YvZ-ye-rd8.segmentTitles[1]" = "条形码";
+
+/* Class = "UIBarButtonItem"; title = "编辑"; ObjectID = "hhF-xY-b6h"; */
+"hhF-xY-b6h.title" = "编辑";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "yqy-tJ-ggw"; */
+"yqy-tJ-ggw.title" = "Item";
